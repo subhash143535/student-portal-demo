@@ -1,5 +1,5 @@
 # student-portal-demo
-Bsic Student portfolio
+Basic Student portfolio
 attendence Tracking System
 Weekly Text Results
 Semester Results
